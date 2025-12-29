@@ -106,7 +106,7 @@ var recipes = [
   {
     name: "Margherita Pizza",
     desc: "Classic Italian pizza with fresh mozzarella and basil",
-    img: "images/Pizza.jpg",
+    img: "images/pizza.jpg",
     rate: "4.9",
     reviews: "512 reviews",
     prepTime: "90 min",
